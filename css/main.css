@@ -90,14 +90,17 @@ footer {
 
   #column-1 {
     background-color: #decade;
+    width: 33.33%;
   }
 
   #column-2 {
     background-color: #accede;
+    width: 33.33%;
   }
 
   #column-3 {
     background-color: #cabbed;
+    width: 33.33%;
   }
 
   footer {
